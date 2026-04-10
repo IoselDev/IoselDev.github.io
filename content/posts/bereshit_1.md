@@ -20,7 +20,7 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | **ה** | **He/Héi** | H (Muda o J suave) | Su sonido suave depende del uso natural del hablante. |
 | **ו** | **Vav** | V / U | Suena como **V** o como vocal **U** según la regla. |
 | **ז** | **Zain** | Z | Sonido vibrante: Za, Ze, Zi, Zo, Zu. Como la Z española. |
-| **ח** | **Jet** | J | Nuestra **J** fuerte: Ja, Je, Ji, Jo, Ju (*Sameaj*). |
+| **ח** | **Jet** | J | Nuestra **J** fuerte: Ja, Je, Ji, Jo, Ju (*Jai*). |
 | **ט** | **Tet** | T | Nuestra **T** fuerte: Ta, Te, Ti, To, Tu (*Tate*). |
 | **י** | **Iud** | I (Consonante/Vocal)| Lleva apóstrofe (**'**) en medio o al final de la palabra cuando es usada como consonante. Excepto cuando es usada como vocal. Usada como 'i' mayúscula. Ej: *IeHoVáH*, *Bin'iamín*, *ELOHÍM*. |
 | **כ ך** | **Caf / Jaf** | C-Q / J | **Caf** suena Ca, Que, Qui, Co, Cu; **Jaf** suena Ja, Je, Ji, Jo, Ju. |
