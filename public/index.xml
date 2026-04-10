@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kodesh Iosel</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Kodesh Iosel</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 09 Apr 2026 05:30:50 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bereshit_1</title>
+      <link>http://localhost:1313/posts/bereshit_1/</link>
+      <pubDate>Thu, 09 Apr 2026 05:30:50 -0300</pubDate>
+      <guid>http://localhost:1313/posts/bereshit_1/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Durante años, la escritura de palabras hebreas al español ha estado bajo el peso de la fonética anglosajona. Esto resulta confuso para quienes no hablan inglés —niños, ancianos o personas de pueblo—, alejándolos del hebreo, que en tiempos bíblicos fue siempre el &amp;lsquo;idioma del pueblo&amp;rsquo;. La Toráh no era un código secreto para élites, sino un mensaje público que incluso el menos versado debía comprender cada siete años en su lectura pública (como bien señala el jajam karaíta Nehemia Gordon).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

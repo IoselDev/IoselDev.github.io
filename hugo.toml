@@ -1,0 +1,8 @@
+baseURL = 'https://IoselDev.github.io/'
+languageCode = 'es'
+title = 'Kodesh Iosel'
+theme = 'PaperMod'
+[params]
+    defaultTheme = "dark"
+    ShowCodeCopyButtons = true
+    displayModeButton = true  # Esto activa el botoncito de la luna/sol

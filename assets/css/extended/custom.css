@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+:root {
+    --nav-width: 900px;
+}
+
+body {
+    font-family: 'Merriweather', serif !important;
+}
+
+/* Esto asegura que la I mayúscula se vea ruda */
+h1, h2, h3, p {
+    font-family: 'Merriweather', serif;
+}
