@@ -17,7 +17,7 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | **ב** | **Bet/Vet** | B / V | Con daguesh suena **B**, sin daguesh suena **V**. |
 | **ג** | **Guímel** | G (Ga, Gue, Gui, Go, Gu) | Siempre suena como 'Gato'. |
 | **ד** | **Dálet** | D (Da, De, Di, Do, Du) | **D** de 'Dado' |
-| **ה** | **He/Héi** | H (Muda o J suave) | Su sonido suave depende del uso natural del hablante. |
+| **ה** | **He/Héi** | H (Muda o J suave) | Su sonido suave depende del uso natural del hablante.(Ha, He, Hi, Ho, Hu) |
 | **ו** | **Vav** | V / U | Suena como **V** o como vocal **U** según la regla. Y a veces como una O/U cuando es usada como un auxiliar de vocal escrita para una consonante.|
 | **ז** | **Zain** | Z | Sonido vibrante: Za, Ze, Zi, Zo, Zu. Como la Z española. |
 | **ח** | **Jet** | J | Nuestra **J** fuerte: Ja, Je, Ji, Jo, Ju (*Jai*). |
