@@ -18,17 +18,17 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | **ג** | **Guímel** | G (Ga, Gue, Gui, Go, Gu) | Siempre suena como 'Gato'. |
 | **ד** | **Dálet** | D (Da, De, Di, Do, Du) | **D** de 'Dado' |
 | **ה** | **He/Héi** | H (Muda o J suave) | Su sonido suave depende del uso natural del hablante. |
-| **ו** | **Vav** | V / U | Suena como **V** o como vocal **U** según la regla. |
+| **ו** | **Vav** | V / U | Suena como **V** o como vocal **U** según la regla. Y a veces como una O/U cuando es usada como un auxiliar de vocal escrita para una consonante.|
 | **ז** | **Zain** | Z | Sonido vibrante: Za, Ze, Zi, Zo, Zu. Como la Z española. |
 | **ח** | **Jet** | J | Nuestra **J** fuerte: Ja, Je, Ji, Jo, Ju (*Jai*). |
 | **ט** | **Tet** | T | Nuestra **T** fuerte: Ta, Te, Ti, To, Tu (*Tate*). |
-| **י** | **Iud** | I (Consonante/Vocal)| Lleva apóstrofe (**'**) en medio o al final de la palabra cuando es usada como consonante. Excepto cuando es usada como vocal. Usada como 'i' mayúscula. Ej: *IeHoVáH*, *Bin'iamín*, *ELOHÍM*. |
+| **י** | **Iud** | I (Consonante/Vocal) A veces cuando es usada de auxiliar como vocal de una conosante puede ser 'i' o 'e'.| Lleva apóstrofe (**'**) en medio o al final de la palabra cuando es usada como consonante. Excepto cuando es usada como vocal. Usada como 'i' mayúscula. Ej: *IeHoVáH*, *Bin'iamín*, *ELOHÍM*. |
 | **כ ך** | **Caf / Jaf** | C-Q / J | **Caf** suena Ca, Que, Qui, Co, Cu; **Jaf** suena Ja, Je, Ji, Jo, Ju. |
 | **ל** | **Lámed** | L | **L** suena como La, Le, Li, Lo, Lu |
 | **מ ם** | **Mem** | M (Ma, Me, Mi, Mo, Mu) | Siempre suena como 'Mamá'. |
 | **נ ן** | **Nun** | N (Na, Ne, Ni, No, Nu) | Suena como 'Nana'. |
 | **ס** | **Sámej** | Es nuestra S (Sa, Se, Si, So, Su) | Suena como 'Socios' |
-| **ע** | **A'in** | No tiene sonido, es gutural igual que Alef, una consonante vocal. | Puede llevar las 5 vocales como Alef (A,E,I,O,U).  Lleva apóstrofe (**'**) en medio o al final de una palabra cuando es usada como consonante y no como vocal (ej. *Va'ed ועד*). Aunque en tiempos bíblicos A'in tenía sonido parecido al Ain árabe, según cita Nehemia Gordon.  |
+| **ע** | **A'in** | No tiene sonido, es gutural igual que Alef, una consonante/vocal.  | Puede llevar las 5 vocales como Alef (A,E,I,O,U).  Lleva apóstrofe (**'**) en medio o al final de una palabra cuando es usada como consonante y no como vocal (ej. *Va'ed ועד*). Aunque en tiempos bíblicos A'in tenía sonido parecido al Ain árabe, según cita Nehemia Gordon.  |
 | **פ ף** | **Pe/Fe** | La daguesh es para sonidos fuertes, que es la pe, sin daguesh es suave, es la efe. | Nuestra **P** fuerte: Pa, Pe, Pi, Po, Pu (*Papá*). Y nuestra Efe: Fa, Fe, Fi, Fo, Fu |
 | **צ ץ** | **Tzadi** | Tz / Ts | Sonido fuerte: Tza, Tze, Tzi, Tzo, Tzu. Es igual que 'habitaTS', 'TSunami'; solo que usado como consonante sin mutear la T, combinando la T con la Z, el sonido es como cuando el pedernal del mechero del encendedor hace 'tss, tss' solo que remarcadno a veces la Z para asemejarlo más al hebreo |
 | **ק** | **Kuf** | Es literal nuestra K: Ka, Ke, Ki, Ko, Ku (Consonante)| Se dice que antes se llamaba Kof, esto es porque la Vav puede ser tanto una U como una O; al igual que la Iud antes era Iod. |
