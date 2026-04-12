@@ -53,4 +53,4 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | **Traducción Iosel:**  | **Fonética karaíta:** | **Hebreo:** |
 | :--- | :--- | :--- |
 | Y dijo ELOHÍM: haya firmamento en medio de las aguas; y haya separación entre agua de agua. | Vaiomer ELOHÍM iehí rakía betoj haMáim Vihi mavdíl bén máim laMáim. | וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃|
-| s | s | s |
+| E hizo ELOHÍM a el firmamento; y separó entre las aguas de debajo del firmamento, y entre las aguas de encima del firmamento; y fue así. | Vaiás ELOHÍM ethaRakía vaiavdél bén haMáim asher mitajat laRakía uVén haMáim asher me'al laRakía Vahi-jén. | וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וֽ͏ַיְהִי־כֵֽן׃ |
