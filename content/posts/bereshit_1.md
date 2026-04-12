@@ -54,3 +54,8 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | :--- | :--- | :--- |
 | Y dijo ELOHÍM: haya firmamento en medio de las aguas; y haya separación entre agua de agua. | Vaiomer ELOHÍM iehí rakía betoj haMáim Vihi mavdíl bén máim laMáim. | וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃|
 | E hizo ELOHÍM a el firmamento; y separó entre las aguas de debajo del firmamento, y entre las aguas de encima del firmamento; y fue así. | Vaiás ELOHÍM ethaRakía vaiavdél bén haMáim asher mitajat laRakía uVén haMáim asher me'al laRakía Vahi-jén. | וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וֽ͏ַיְהִי־כֵֽן׃ |
+| Y llamó ELOHÍM al firmamento *cielos*; Y fue la tarde; y fue la mañana. Día segundo. | Vaikrá ELOHÍM laRakía shamáim Vaihí-erev Vaihí-Vóker iom Shení | וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃ פ |
+# Bereshít 3:1
+| **Traducción Iosel:**  | **Fonética karaíta:** | **Hebreo:** |
+| :--- | :--- | :--- |
+| Y dijo ELOHÍM: Aguárdense las aguas de debajo del cielo a un lugar único, y véase lo seco. Y fue así. | Vaiomer ELOHÍM ikavú haMáim mitajat haShamáim el-makóm ejad Veteráeh haIabashá Vaihi-jén. | וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃ |
