@@ -45,6 +45,6 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | **Traducción Iosel:**  | **Fonética karaíta:** | **Hebreo:** |
 | :--- | :--- | :--- |
 |  En el principio creó ELOHÍM a los cielos y a la tierra. |  Bereshít bará ELOHÍM et haShamáim ve'et haAretz. |  בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ |
-|Empero, la tierra estaba vacía y sin forma, y la tiniebla sobre la faz del abismo; y el ESPÍRITU de ELOHÍM flotaba sobre la faz de las aguas.|VehaAretz haitáh tohú vaVohú veJoshej al-pné tehóm veRúaj ELOHÍM merajefet al-pné haMáim|וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם׃|
-
-
+| Y la tierra estaba vacía y sin forma; y la tiniebla sobre la faz del abismo; y el ESPÍRITU de ELOHÍM flotaba sobre la faz de las aguas. |VehaAretz haitáh tohú vaVohú veJoshej al-pné tehóm veRúaj ELOHÍM merajefet al-pné haMáim | וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם׃|
+| Y dijo ELOHÍM: haya luz, y hubo luz. | Vaiomer ELOHÍM iehí or vaihí-or | וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃ |
+| Y vió ELOHÍM a la luz, que era buena; y estableció ELOHÍM distinción entre la luz, y diferencia entre la noche. | Vaiar ELOHÍM etha'or quí-tov Vaiavdél ELOHÍM ben ha'or uVen haJoshej. | וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃ |
