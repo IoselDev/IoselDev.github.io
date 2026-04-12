@@ -50,5 +50,7 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | Y vió ELOHÍM a la luz, que era buena; y estableció ELOHÍM distinción entre la luz, y diferencia entre la noche. | Vaiar ELOHÍM etha'or quí-tov Vaiavdél ELOHÍM ben ha'or uVen haJoshej. | וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃ |
 | Y llamó ELOHÍM para la luz *día*; y para la tiniebla llamó *noche*; y fue la tarde, y fue la mañana,  día uno. | Vaikrá ELOHÍM laOr iom velaJoshej kará láilah Vaihi-erev Vaihi-Voker iom ejad. | אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד׃ פ |
 # Bereshit 2:1
-| Y dijo ELOHÍM: haya firmamento en medio de las aguas; y haya separación entre agua de agua.  | Vaiomer ELOHÍM iehí rakía betoj haMáim Vihi mavdíl bén máim laMáim. | וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃ |
+| **Traducción Iosel:**  | **Fonética karaíta:** | **Hebreo:** |
+| :--- | :--- | :--- |
+| Y dijo ELOHÍM: haya firmamento en medio de las aguas; y haya separación entre agua de agua. | Vaiomer ELOHÍM iehí rakía betoj haMáim Vihi mavdíl bén máim laMáim. | וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃|
 | s | s | s |
