@@ -59,3 +59,4 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 | **Traducción Iosel:**  | **Fonética karaíta:** | **Hebreo:** |
 | :--- | :--- | :--- |
 | Y dijo ELOHÍM: Aguárdense las aguas de debajo del cielo a un lugar único, y véase lo seco. Y fue así. | Vaiomer ELOHÍM ikavú haMáim mitajat haShamáim el-makóm ejad Veteráeh haIabashá Vaihi-jén. | וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃ |
+| Y llamó ELOHÍM de lo seco *tierra*; y del puquio* de las aguas proclamó *mares*; y vió ELOHÍM que era bueno. | Vaikrá ELOHÍM laIabashá eretz UlMikveh haMáim kará iamím Vaiar ELOHÍM qui-tov. | וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃ |
