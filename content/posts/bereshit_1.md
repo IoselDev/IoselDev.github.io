@@ -9,6 +9,20 @@ En **Kodesh Iosel**, hemos decidido romper con la fonética inglesa. Proponemos 
 
 Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribimos *Sameach*, dirá una CH de 'Chavo' y brikeará el sonido de la *Jet*. Lo mismo ocurre con *Shamáim* (שמיים); en español, la 'Y' es una consonante fuerte (que suena ya, ye, yi, yo, yu, más parecida a la G o J inglesa en vez de una Y inglesa), por lo que usamos la 'i' latina para preservar la pureza del sonido vocálico (que es más una Y inglesa o una Iud hebrea), tal como se hacía en el español medieval de la *Biblia del Oso* (porque sabemos que al igual que la Iud, la i latina se usaba tanto como conosonante y como vocal, y Casidioro de Reina tradujó יהוה como IeHoVáH, más tarde cuando la J reemplazó a la I latina, se tradujo como Jehová). Aquí en Jujuy, el uso de la 'i' como consonante y vocal es natural (como en el apellido Irupa o el modismo 'iá' de los quechuanos que también hablan español), lo que hace a nuestra lengua la mejor preparada para reflejar el corazón del hebreo."
 
+Un aspecto vital de nuestra fonética es el tratamiento de la Sheva (el símbolo de dos puntos verticales bajo una letra). En el hebreo gramatical, es una 'e' muy breve, pero en el hebreo vivo y hablado, este sonido es fluido.
+
+    La vocal 'fantasma': Al inicio de palabras como Shmá (שמע), el hispanohablante puede leerlo naturalmente como Shemá o incluso Eshmá (agregando una 'e' de apoyo al principio, como hacían los antiguos traductores de la Biblia del Oso). Ambas son correctas en nuestro sistema porque preservan la raíz sin brikear la pronunciación.
+
+    La Regla de la Unión (Elisión): En Kodesh Iosel escribimos como se habla. Si una palabra termina en vocal y la siguiente empieza con una letra que tiene Sheva, esa 'e' desaparece y la consonante se pega a la palabra anterior. Por eso no escribimos Et ha-Rakía, sino EthaRakía, reflejando la fluidez nativa donde los sonidos se funden.
+
+    Las Preposiciones (Los Apéndices): Las letras auxiliares Be, Ve, Le, Que, She, Me son la excepción; en ellas, la 'e' siempre suena después de la consonante, pues actúan como pequeños motores pegados a la palabra principal.
+
+Al leer esta traducción, si ves una consonante sola al inicio, siéntete libre de apoyarte en una 'e' suave, sabiendo que en la unidad de nuestra lengua, el espíritu del sonido importa más que la rigidez del papel.
+
+Es imperativo destacar la Excepción de Gloria en nuestro sistema: la Sheva bajo la letra Iud en el Nombre de IeHoVáH. Siguiendo la investigación del jajam karaíta Nehemia Gordon sobre los manuscritos masoréticos, esta Sheva lógicamente sí suena, rompiendo la regla de la 'e' muda al inicio. Por esta razón, las preposiciones que le preceden (Be, Ve, Le, Que) experimentan un rebirth vocálico, convirtiéndose en Ba, Va, La, Ca. Así, en nuestra traducción leerá laIeHoVáH (para IeHoVáH), preservando la unción original del texto.
+
+Asimismo, el lector notará que muchas palabras se escriben solo con su consonante inicial (ej. Shmá, Sfera). Esto responde a la Contracción Nativista: en el hebreo vivo, los sonidos se funden. Al igual que un jujeño dice naturalmente 'Matanot-tanot' en lugar de la forma pausada 'matanot ketanot', nuestra fonética elimina el lag entre palabras. Si escribimos Sfera (que en hebreo es tanto 'libro/rollo' como la raíz de 'esfera'), es porque el sonido fluye desde la consonante hacia la vocal siguiente sin brikear el ritmo. Escribimos como se respira, del Quetiv al Krí, para que el mensaje de IáH llegue en claridad al corazón del humilde.
+
 ###  El Informe del "Alefato de Iosel" (Basado en el Sefardí)
 
 | Letra | Nombre | Fonética Karaíta | Regla de Oro |
