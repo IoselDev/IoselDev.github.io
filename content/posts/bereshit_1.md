@@ -11,11 +11,11 @@ Si escribimos *Sameaj* (שמח), un hispano lo leerá correctamente; si escribim
 
 Un aspecto vital de nuestra fonética es el tratamiento de la Sheva (el símbolo de dos puntos verticales bajo una letra). En el hebreo gramatical, es una 'e' muy breve, pero en el hebreo vivo y hablado, este sonido es fluido.
 
-    La vocal 'fantasma': Al inicio de palabras como Shmá (שמע), el hispanohablante puede leerlo naturalmente como Shemá o incluso Eshmá (agregando una 'e' de apoyo al principio, como hacían los antiguos traductores de la Biblia del Oso). Ambas son correctas en nuestro sistema porque preservan la raíz sin brikear la pronunciación.
+La vocal 'fantasma': Al inicio de palabras como Shmá (שמע), el hispanohablante puede leerlo naturalmente como Shemá o incluso Eshmá (agregando una 'e' de apoyo al principio, como hacían los antiguos traductores de la Biblia del Oso). Ambas son correctas en nuestro sistema porque preservan la raíz sin brikear la pronunciación.
 
-    La Regla de la Unión (Elisión): En Kodesh Iosel escribimos como se habla. Si una palabra termina en vocal y la siguiente empieza con una letra que tiene Sheva, esa 'e' desaparece y la consonante se pega a la palabra anterior. Por eso no escribimos Et ha-Rakía, sino EthaRakía, reflejando la fluidez nativa donde los sonidos se funden.
+La Regla de la Unión (Elisión): En Kodesh Iosel escribimos como se habla. Si una palabra termina en vocal y la siguiente empieza con una letra que tiene Sheva, esa 'e' desaparece y la consonante se pega a la palabra anterior. Por eso no escribimos Et ha-Rakía, sino EthaRakía, reflejando la fluidez nativa donde los sonidos se funden.
 
-    Las Preposiciones (Los Apéndices): Las letras auxiliares Be, Ve, Le, Que, She, Me son la excepción; en ellas, la 'e' siempre suena después de la consonante, pues actúan como pequeños motores pegados a la palabra principal.
+Las Preposiciones (Los Apéndices): Las letras auxiliares Be, Ve, Le, Que, She, Me son la excepción; en ellas, la 'e' siempre suena después de la consonante, pues actúan como pequeños motores pegados a la palabra principal.
 
 Al leer esta traducción, si ves una consonante sola al inicio, siéntete libre de apoyarte en una 'e' suave, sabiendo que en la unidad de nuestra lengua, el espíritu del sonido importa más que la rigidez del papel.
 
